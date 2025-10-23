@@ -49,16 +49,9 @@ export default function RootLayout({
                 >
                   GitHub
                 </a>
+                
                 <a
-                  href="https://www.instagram.com/abdelrahman15102/"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="hover:text-white hover:underline transition-colors"
-                >
-                  Instagram
-                </a>
-                <a
-                  href="https://www.linkedin.com/in/abdelrahman-hany-cloud-data-engineer/"
+                  href="https://www.linkedin.com/in/ahmed-tamer-at/"
                   target="_blank"
                   rel="noreferrer"
                   className="hover:text-white hover:underline transition-colors"
