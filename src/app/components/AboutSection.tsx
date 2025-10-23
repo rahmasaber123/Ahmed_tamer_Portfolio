@@ -113,7 +113,7 @@ export default function AboutSection() {
               </div>
               <div className="mt-10">
                 <a
-                  href="/ahmed_tamer_resume.pdf"
+                  href="/Ahmed_Tamer_Resume.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 rounded-xl border border-cyan-300/40 bg-cyan-400/10 px-4 py-2 text-cyan-200 hover:bg-cyan-400/20 hover:border-cyan-300/60 transition"
